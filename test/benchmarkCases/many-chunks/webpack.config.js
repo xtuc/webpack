@@ -1,3 +1,6 @@
 module.exports = {
-	entry: "./index"
+	entry: "./index",
+	stats: {
+		assets: false
+	}
 };
